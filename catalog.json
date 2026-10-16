@@ -1,0 +1,382 @@
+{
+ "version": 1,
+ "categories": [
+  "Bible stories",
+  "Mandalas",
+  "Nature",
+  "Animals",
+  "Calm patterns"
+ ],
+ "templates": [
+  {
+   "id": "mandala-bloom",
+   "title": "Bloom Mandala",
+   "category": "Mandalas",
+   "tags": [
+    "flower",
+    "easy"
+   ],
+   "license": "CC0 (original, generated for ADA)",
+   "source": "ADA project",
+   "svg": "svgs/mandala-bloom.svg"
+  },
+  {
+   "id": "mandala-star",
+   "title": "Star Mandala",
+   "category": "Mandalas",
+   "tags": [
+    "star",
+    "medium"
+   ],
+   "license": "CC0 (original, generated for ADA)",
+   "source": "ADA project",
+   "svg": "svgs/mandala-star.svg"
+  },
+  {
+   "id": "mandala-calm",
+   "title": "Calm Mandala",
+   "category": "Mandalas",
+   "tags": [
+    "simple",
+    "relax"
+   ],
+   "license": "CC0 (original, generated for ADA)",
+   "source": "ADA project",
+   "svg": "svgs/mandala-calm.svg"
+  },
+  {
+   "id": "mandala-lotus",
+   "title": "Lotus Mandala",
+   "category": "Mandalas",
+   "tags": [
+    "lotus",
+    "flower"
+   ],
+   "license": "CC0 (original, generated for ADA)",
+   "source": "ADA project",
+   "svg": "svgs/mandala-lotus.svg"
+  },
+  {
+   "id": "mandala-sun",
+   "title": "Sunburst Mandala",
+   "category": "Mandalas",
+   "tags": [
+    "sun",
+    "bold"
+   ],
+   "license": "CC0 (original, generated for ADA)",
+   "source": "ADA project",
+   "svg": "svgs/mandala-sun.svg"
+  },
+  {
+   "id": "mandala-detail",
+   "title": "Detailed Mandala",
+   "category": "Mandalas",
+   "tags": [
+    "detailed",
+    "challenge"
+   ],
+   "license": "CC0 (original, generated for ADA)",
+   "source": "ADA project",
+   "svg": "svgs/mandala-detail.svg"
+  },
+  {
+   "id": "flower",
+   "title": "Garden Flower",
+   "category": "Nature",
+   "tags": [
+    "flower",
+    "easy"
+   ],
+   "license": "CC0 (original, generated for ADA)",
+   "source": "ADA project",
+   "svg": "svgs/flower.svg"
+  },
+  {
+   "id": "sunny-hills",
+   "title": "Sunny Hills",
+   "category": "Nature",
+   "tags": [
+    "sun",
+    "clouds"
+   ],
+   "license": "CC0 (original, generated for ADA)",
+   "source": "ADA project",
+   "svg": "svgs/sunny-hills.svg"
+  },
+  {
+   "id": "tree",
+   "title": "Apple Tree",
+   "category": "Nature",
+   "tags": [
+    "tree",
+    "apples"
+   ],
+   "license": "CC0 (original, generated for ADA)",
+   "source": "ADA project",
+   "svg": "svgs/tree.svg"
+  },
+  {
+   "id": "butterfly",
+   "title": "Butterfly",
+   "category": "Nature",
+   "tags": [
+    "butterfly",
+    "insect"
+   ],
+   "license": "CC0 (original, generated for ADA)",
+   "source": "ADA project",
+   "svg": "svgs/butterfly.svg"
+  },
+  {
+   "id": "leaf",
+   "title": "Leaf",
+   "category": "Nature",
+   "tags": [
+    "leaf",
+    "easy"
+   ],
+   "license": "CC0 (original, generated for ADA)",
+   "source": "ADA project",
+   "svg": "svgs/leaf.svg"
+  },
+  {
+   "id": "mountain-lake",
+   "title": "Mountain Lake",
+   "category": "Nature",
+   "tags": [
+    "mountain",
+    "lake"
+   ],
+   "license": "CC0 (original, generated for ADA)",
+   "source": "ADA project",
+   "svg": "svgs/mountain-lake.svg"
+  },
+  {
+   "id": "fish",
+   "title": "Fish",
+   "category": "Animals",
+   "tags": [
+    "fish",
+    "sea"
+   ],
+   "license": "CC0 (original, generated for ADA)",
+   "source": "ADA project",
+   "svg": "svgs/fish.svg"
+  },
+  {
+   "id": "turtle",
+   "title": "Turtle",
+   "category": "Animals",
+   "tags": [
+    "turtle",
+    "sea"
+   ],
+   "license": "CC0 (original, generated for ADA)",
+   "source": "ADA project",
+   "svg": "svgs/turtle.svg"
+  },
+  {
+   "id": "bird",
+   "title": "Bird on a Branch",
+   "category": "Animals",
+   "tags": [
+    "bird"
+   ],
+   "license": "CC0 (original, generated for ADA)",
+   "source": "ADA project",
+   "svg": "svgs/bird.svg"
+  },
+  {
+   "id": "lamb",
+   "title": "Little Lamb",
+   "category": "Animals",
+   "tags": [
+    "lamb",
+    "sheep",
+    "shepherd"
+   ],
+   "license": "CC0 (original, generated for ADA)",
+   "source": "ADA project",
+   "svg": "svgs/lamb.svg"
+  },
+  {
+   "id": "pattern-rings",
+   "title": "Ripples",
+   "category": "Calm patterns",
+   "tags": [
+    "rings",
+    "relax"
+   ],
+   "license": "CC0 (original, generated for ADA)",
+   "source": "ADA project",
+   "svg": "svgs/pattern-rings.svg"
+  },
+  {
+   "id": "pattern-waves",
+   "title": "Ocean Waves",
+   "category": "Calm patterns",
+   "tags": [
+    "waves",
+    "relax"
+   ],
+   "license": "CC0 (original, generated for ADA)",
+   "source": "ADA project",
+   "svg": "svgs/pattern-waves.svg"
+  },
+  {
+   "id": "pattern-diamonds",
+   "title": "Diamond Garden",
+   "category": "Calm patterns",
+   "tags": [
+    "diamond",
+    "geometric"
+   ],
+   "license": "CC0 (original, generated for ADA)",
+   "source": "ADA project",
+   "svg": "svgs/pattern-diamonds.svg"
+  },
+  {
+   "id": "pattern-quilt",
+   "title": "Patchwork Quilt",
+   "category": "Calm patterns",
+   "tags": [
+    "quilt",
+    "geometric"
+   ],
+   "license": "CC0 (original, generated for ADA)",
+   "source": "ADA project",
+   "svg": "svgs/pattern-quilt.svg"
+  },
+  {
+   "id": "crayons",
+   "title": "Crayons",
+   "category": "Calm patterns",
+   "tags": [
+    "crayons",
+    "fun"
+   ],
+   "license": "CC0 (original, generated for ADA)",
+   "source": "ADA project",
+   "svg": "svgs/crayons.svg"
+  },
+  {
+   "id": "noahs-ark",
+   "title": "Noah's Ark",
+   "category": "Bible stories",
+   "tags": [
+    "noah",
+    "ark",
+    "genesis"
+   ],
+   "license": "CC0 (original, generated for ADA)",
+   "source": "ADA project",
+   "svg": "svgs/noahs-ark.svg"
+  },
+  {
+   "id": "nativity",
+   "title": "The Nativity",
+   "category": "Bible stories",
+   "tags": [
+    "christmas",
+    "jesus",
+    "star"
+   ],
+   "license": "CC0 (original, generated for ADA)",
+   "source": "ADA project",
+   "svg": "svgs/nativity.svg"
+  },
+  {
+   "id": "burning-bush",
+   "title": "Moses and the Burning Bush",
+   "category": "Bible stories",
+   "tags": [
+    "moses",
+    "exodus",
+    "fire"
+   ],
+   "license": "CC0 (original, generated for ADA)",
+   "source": "ADA project",
+   "svg": "svgs/burning-bush.svg"
+  },
+  {
+   "id": "creation",
+   "title": "The Creation Story",
+   "category": "Bible stories",
+   "tags": [
+    "creation",
+    "genesis",
+    "sun",
+    "moon"
+   ],
+   "license": "CC0 (original, generated for ADA)",
+   "source": "ADA project",
+   "svg": "svgs/creation.svg"
+  },
+  {
+   "id": "last-supper",
+   "title": "The Last Supper (Bread and Cup)",
+   "category": "Bible stories",
+   "tags": [
+    "jesus",
+    "communion",
+    "bread"
+   ],
+   "license": "CC0 (original, generated for ADA)",
+   "source": "ADA project",
+   "svg": "svgs/last-supper.svg"
+  },
+  {
+   "id": "david-sling",
+   "title": "David's Sling and Five Stones",
+   "category": "Bible stories",
+   "tags": [
+    "david",
+    "goliath",
+    "shepherd"
+   ],
+   "license": "CC0 (original, generated for ADA)",
+   "source": "ADA project",
+   "svg": "svgs/david-sling.svg"
+  },
+  {
+   "id": "dove-olive",
+   "title": "Dove with Olive Branch",
+   "category": "Bible stories",
+   "tags": [
+    "dove",
+    "peace",
+    "noah"
+   ],
+   "license": "CC0 (original, generated for ADA)",
+   "source": "ADA project",
+   "svg": "svgs/dove-olive.svg"
+  },
+  {
+   "id": "cross-light",
+   "title": "Cross and Light",
+   "category": "Bible stories",
+   "tags": [
+    "cross",
+    "easter",
+    "light"
+   ],
+   "license": "CC0 (original, generated for ADA)",
+   "source": "ADA project",
+   "svg": "svgs/cross-light.svg"
+  },
+  {
+   "id": "rainbow-promise",
+   "title": "Rainbow Promise",
+   "category": "Bible stories",
+   "tags": [
+    "rainbow",
+    "noah",
+    "promise"
+   ],
+   "license": "CC0 (original, generated for ADA)",
+   "source": "ADA project",
+   "svg": "svgs/rainbow-promise.svg"
+  }
+ ]
+}
